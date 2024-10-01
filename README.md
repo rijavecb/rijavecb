@@ -13,7 +13,7 @@ A Front-end Developer and JavaScript enthusiast. Passionate about building user-
 - **Front-end Technologies**: HTML, CSS, JavaScript, React (Jotai & Redux)
 - **Styling Frameworks**: TailwindCSS
 - **Static Site Generators**: Astro
-- **Backend Technologies**: Pocketbase
+- **Backend Technologies**: Pocketbase,  Node.js, PHP & Laravel (learning)
 - **Version Control**: Git, GitHub
 
 ## 🚀 Projects
