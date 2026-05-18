@@ -1,64 +1,61 @@
 ### Hi, I'm Branko! 👋
 
-A Front-end Developer and JavaScript enthusiast. Passionate about building user-centric applications and solutions. Let's connect!
+I'm a web developer with an engineering degree in Geodesy and Geomatics (GIS) and over five years of customer support experience. I bring together customer empathy and engineering thinking to craft web applications that are both functional and intuitive, solving real problems in ways that actually make sense to users.
 
-## Table of Contents
+## 🗺️ My Journey
 
-- [🛠 Technical Skillset](#-technical-skillset)
-- [🚀 Projects](#-projects)
-- [📬 Contact Me](#-contact-me)
+- 🎧 **2019-Present:** Supporting users at Amazing Marvin while contributing to frontend development, testing, and writing documentation.
+- 💻 **2022-Present:** Building my own products and taking on client projects as a Full-Stack Web Developer.
+- 🗺️ **2014-2019:** Earned my Engineering degree in Geodesy & Geomatics, building a strong technical foundation and problem-solving skills.
 
 ## 🛠 Technical Skillset
 
-- **Front-end Technologies**: HTML, CSS, JavaScript, React (Jotai & Redux)
-- **Styling Frameworks**: TailwindCSS
-- **Static Site Generators**: Astro
-- **Backend Technologies**: Pocketbase,  Node.js, PHP & Laravel (learning)
-- **Version Control**: Git, GitHub
+- **Languages**: JavaScript, PHP, HTML, CSS, SQL
+- **Frontend**: React (Jotai, Redux), TailwindCSS, Astro, Inertia.js, Vite
+- **Backend**: Laravel, Node.js, Express, Pocketbase
+- **Databases**: PostgreSQL, SQLite, PostGIS
+- **Tools & Tech**: Git, GitHub Actions (CI/CD), Docker, Playwright, Electron
 
 ## 🚀 Projects
 
 ### [Gorby](https://gorby.app)
- 
-**Technologies**: React, TailwindCSS, Jotai, Vite, NLP libraries (unified.js, compromise), Pocketbase, Astro
+**Technologies**: React, TailwindCSS, Jotai, Vite, Pocketbase, Node.js, Hono.js, Astro
 
-📚 **About**: Gorby is an ad-free, privacy-respecting text analysis tool with a comprehensive feature set designed for writers, marketers, and students.  
+**About**: An ad-free, privacy-respecting text analysis tool with a comprehensive feature set designed for writers, marketers, and students.
 
-⚙️ **Features**: Text statistics, keyword density analysis, text tagging, readability metrics, and more.
-
-
+**Features**: Text statistics, integration with LLMs, readability metrics, keyword density analysis, reports, text tagging, focus mode, etc.
 
 ---
 
-### [Amazing Marvin Browser Extension](https://github.com/amazingmarvin/amazingmarvin-browserextension)
+### [Support Toolbox](https://supporttoolbox.com/)
+**Technologies**: React, Electron, TailwindCSS, Node.js, SQLite
 
-**Technologies**: React, TailwindCSS, DaisyUI, Parcel, React DayPicker, React Icons
+**About**: A cross-platform desktop application designed to streamline customer support workflows and improve productivity.
 
-📚 **About**: A browser extension that interfaces with [Amazing Marvin](https://amazingmarvin.com/) to help users enhance their productivity.  
+**Features**: Link management, discount tracking, response templates, custom user lists, and offline capabilities.
 
-⚙️ **Features**: Daily Tasks list, Add new tasks to Marvin, Gmail integration, Daily task badge, Context menu integration.
+---
 
-## 📬 Contact Me
+### [Bućkaroš - Digital Fishing Log](https://buckaros.com)
+**Technologies**: Laravel, React, Inertia.js, PostgreSQL, GitHub Actions
 
-Feel free to reach out if my skillset aligns with your project needs. 
+**About**: A digital fishing logbook for Serbian-speaking anglers (deployed on a VPS with automated CI/CD pipelines).
 
-💌 [Email](mailto:hello@rijavecb.com)  
+**Features**: Catch tracking, equipment management, location mapping, fishing analytics, and weather/water level API integrations (via Serbian RHMZ).
 
-🔗 [LinkedIn](https://www.linkedin.com/in/rijavecbranimir)
+## 🎣 Life Beyond Code
 
-🐦 [Twitter](https://twitter.com/rijavecb)
+When I'm not building web applications, you can find me:
+- 🏎️ Following Formula 1 and MotoGP.
+- 🚴 Riding my bike or watching professional cycling.
+- 🎣 Enjoying relaxing fishing sessions with my dad (which actually inspired the Bućkaroš app!).
+- 🐶 Hanging out with my Maltese dog, Pupi.
 
-<!--
-**rijavecb/rijavecb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 📬 Let's Connect
 
-Here are some ideas to get you started:
+I'm available for new projects and collaborations engagements where I can make a real impact utilizing my mix of full-stack development and technical support experience. 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+💌 **Email:** [hello@rijavecb.com](mailto:hello@rijavecb.com)  
+🌐 **Website:** [rijavecb.com](https://rijavecb.com)  
+🔗 **LinkedIn:** [rijavecbranimir](https://www.linkedin.com/in/rijavecbranimir)  
+🐦 **Twitter:** [@rijavecb](https://twitter.com/rijavecb)
