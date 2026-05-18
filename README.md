@@ -4,9 +4,9 @@ I'm a web developer with an engineering degree in Geodesy and Geomatics (GIS) an
 
 ## 🗺️ My Journey
 
-- 🎧 **2019-Present:** Supporting users at Amazing Marvin while contributing to frontend development, testing, and writing documentation.
-- 💻 **2022-Present:** Building my own products and taking on client projects as a Full-Stack Web Developer.
-- 🗺️ **2014-2019:** Earned my Engineering degree in Geodesy & Geomatics, building a strong technical foundation and problem-solving skills.
+- **2019-Present:** Supporting users at Amazing Marvin while contributing to frontend development, testing, and writing documentation.
+- **2022-Present:** Building my own products and taking on client projects as a Full-Stack Web Developer.
+- **2014-2019:** Earned my Engineering degree in Geodesy & Geomatics, building a strong technical foundation and problem-solving skills.
 
 ## 🛠 Technical Skillset
 
